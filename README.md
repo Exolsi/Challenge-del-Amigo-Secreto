@@ -1,2 +1,4 @@
-# Challenge-del-Amigo-Secreto
-Es una aplicacion que basado en los nombres que el usuario proporcione, la aplicacion elegira uno al azar
+<h1>Challenge del Amigo Secreto</h1>
+
+
+Es una aplicacion que en base a los nombres que el usuario proporcione, la aplicacion elegira uno al azar
