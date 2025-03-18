@@ -23,3 +23,12 @@ function actualizarLista() {
         lista.appendChild(li);
     });
 }
+
+function sortearAmigo() {
+    if (nombres.length > 0) {
+        let indiceAleatorio = Math.floor(Math.random() * nombres.length);
+        document.getElementById("resultado").textContent = "El amigo secreto es: " + nombres[indiceAleatorio];
+    } else {
+        alert("Agrega al menos un nombre antes de sortear.");
+    }
+}
