@@ -13,3 +13,13 @@ function agregarNombre() {
         alert("Este nombre ya ha sido agregado.");
     }
 }
+
+function actualizarLista() {
+    let lista = document.getElementById("listaNombres");
+    lista.innerHTML = "";
+    nombres.forEach(nombre => {
+        let li = document.createElement("li");
+        li.textContent = nombre;
+        lista.appendChild(li);
+    });
+}
