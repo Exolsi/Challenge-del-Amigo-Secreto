@@ -30,6 +30,9 @@ function sortearAmigo() {
     if (nombres.length > 0) {
         let indiceAleatorio = Math.floor(Math.random() * nombres.length);
         document.getElementById("resultado").textContent = "El amigo secreto es: " + nombres[indiceAleatorio];
+        //Sirve para limpiar la lista al generar un sorteo
+        nombres = [];
+        actualizarLista(); //sirve para reflejar la limpieza 
     } else {
         alert("Agrega al menos un nombre antes de sortear.");
     }
