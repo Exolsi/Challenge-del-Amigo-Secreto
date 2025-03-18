@@ -12,19 +12,19 @@ Es una aplicación que en base a los nombres que el usuario proporcione, la apli
 ![Paso uno](https://github.com/user-attachments/assets/6f9ca5b4-dc11-448c-85d1-4fe888989ee0)
 
 
-Al ingresar al enlace, el usuario debera agregar al menos mas de un nombre dentro de la linea de texto disponible, sin repetir los nombres claro esta.
+Al ingresar al enlace, el usuario debera agregar al menos mas de un nombre dentro de la linea de texto disponible, sin repetir los nombres.
 
 
 ![Paso dos](https://github.com/user-attachments/assets/2591e688-b899-43cd-8956-ac7306018219)
 
 
-Siguiente a esto debera apretar el boton de iniciar.
+Siguiente a esto debera apretar el boton de añadir para agregar los nombres a la aplicacion.
 
 
 ![Paso tres](https://github.com/user-attachments/assets/58254efd-6f6b-4879-a8db-5e5aeeb493cb)
 
 
-Para finalizar solo debe apretar el boton de Sortear Amigo
+Para finalizar solo debe apretar el boton de Sortear Amigo para completar el sorteo.
 
 
 
