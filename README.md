@@ -1,5 +1,6 @@
 <h1>Challenge del Amigo Secreto</h1>
-![amigo secreto](https://github.com/user-attachments/assets/a6db455a-bc61-495c-89bc-7df14855904a)
+
+![amigo secreto](https://github.com/user-attachments/assets/8f06039e-529a-46cc-99bb-7cff78bddc1c)
 
 
 Es una aplicación que en base a los nombres que el usuario proporcione, la aplicación elegira uno al azar.
