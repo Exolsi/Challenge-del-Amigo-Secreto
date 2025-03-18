@@ -1,7 +1,8 @@
 let nombres = [];
 
-function agregarNombre() {
-    let nombre = prompt("Ingresa el nombre de un amigo:").trim();
+function agregarAmigo() {
+    let input = document.getElementById("amigo");
+    let nombre = input.value.trim();
     if (nombre === "") {
         alert("Por favor, ingresa un nombre válido.");
         return;
